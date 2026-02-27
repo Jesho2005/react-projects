@@ -1,0 +1,10 @@
+{
+"courses":[
+      
+        { "id":1, "name": "Course 1", "price":200, "image": "http://localhost:3000/assets/react.svg" },
+        { "id":2, "name": "Course 2","price":199, "image": "http://localhost:3000/assets/react.svg"},
+        { "id":3, "name": "Course 3", "price":300, "image": "http://localhost:3000/assets/react.svg"  }, 
+        { "id":4, "name": "Course 3", "price":400, "image": "http://localhost:3000/assets/react.svg"  }       
+        
+    ]}
+    
